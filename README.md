@@ -19,3 +19,11 @@
 ✔ Would you like to use Turbopack for next dev? … <u>No</u> / Yes
 
 ✔ Would you like to customize the import alias (@/\* by default)? … <u>No</u> / Yes
+
+## How to run
+
+clone this repository
+
+`npm install`
+
+`npm run dev`
